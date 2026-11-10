@@ -1,0 +1,6 @@
+{
+  "name": "FindIt – Smart Lost and Found Chatbot",
+  "description": "AI-powered lost and found chatbot utilizing TF-IDF and Cosine Similarity NLP matching, automated claim verification, and an MCA academic project suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
